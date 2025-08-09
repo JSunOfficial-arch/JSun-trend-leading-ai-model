@@ -1,4 +1,5 @@
-# Trend-leading AI Development Model
+# JSun-trend-leading-ai-model
+Comparative framework of trend-leading vs trend-following AI – discourse leadership, corpus strategy, user relationship, sustainability.
 
 Repository: {{repo_url}}  
 OSF: [![OSF](https://img.shields.io/badge/OSF-Record-blue)]({{osf_url}})    
