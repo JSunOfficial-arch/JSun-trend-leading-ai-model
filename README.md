@@ -31,4 +31,4 @@ In such an environment, screenshots are no longer “proof of mistakes” but in
 ## Suggested citation
 Sun, J. (2025). *Trend-leading AI Development Model: A comparative framework of trend-leading vs trend-following AI*. OSF. https://osf.io/wpb29
 
-_Last auto-sync: {{last_updated}}_
+_Last auto-sync: 2025-08-09 06:19 UTC_
