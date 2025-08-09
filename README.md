@@ -2,7 +2,7 @@
 
 Repository: [JSun-trend-leading-ai-model](https://github.com/JSunOfficial-arch/JSun-trend-leading-ai-model)  
 OSF Record: [https://osf.io/wpb29](https://osf.io/wpb29)  
-Zenodo DOI: [10.5281/zenodo.16784130](https://doi.org/10.5281/zenodo.16784130)
+Zenodo DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16784130.svg)](https://doi.org/10.5281/zenodo.16784130)
 
 ## Summary
 Trend-leading AI acts as a source of trends, creating unique expressions and guiding user co-creation.  
