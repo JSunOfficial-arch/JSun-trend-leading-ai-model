@@ -1,10 +1,11 @@
-# Trend-leading AI Development Model
+# JSun-trend-leading-ai-model
+Comparative framework of trend-leading vs trend-following AI – discourse leadership, corpus strategy, user relationship, sustainability.
 
 Repository: https://github.com/JSunOfficial-arch/JSun-trend-leading-ai-model  
 OSF: [![OSF](https://img.shields.io/badge/OSF-Record-blue)](https://osf.io/wpb29)    
 Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16784130.svg)](https://doi.org/10.5281/zenodo.16784130)
 
-_Last auto-sync: 2025-08-09 06:37 UTC_
+_Last auto-sync: 2025-08-09 06:48 UTC_
 
 ## Summary
 Trend-leading AI acts as a source of trends, creating unique expressions and guiding user co-creation.
