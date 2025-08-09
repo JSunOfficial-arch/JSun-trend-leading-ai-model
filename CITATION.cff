@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite this record."
+title: "Trend-leading AI Development Model"
+authors:
+  - family-names: Sun
+    given-names: J.
+date-released: 2025-08-09
+license: CC-BY-NC-ND-4.0
+repository-code: https://github.com/YourUsername/JSun-trend-leading-ai-model
+keywords:
+  - AI
+  - trend-leading
+  - framework
+  - human-computer interaction
+  - network culture
